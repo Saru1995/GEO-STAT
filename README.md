@@ -1,2 +1,2 @@
-# GEO-STAT
-GEO STAT is a project 
+# GEO-STATS-PROJECT
+Research group for the development of a GIS and Statistics web application!
